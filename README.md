@@ -42,7 +42,7 @@ O Xeon επεξεργαστής είναι πολλές φορές δυνατό�
 
 Στη συνέχεια βάζοντας το μοντέλο μας (gem5.xml) στο McPAT παίρνουμε τα παρακάτω metrics:<br />
 
-![gm5](https://github.com/John120196/GEM5_Assignment3/blob/main/Assets/gem5stats.png)
+![gm5](https://github.com/John120196/GEM5_Assignment3/blob/main/Assets/gem5.png)
 
 
 
